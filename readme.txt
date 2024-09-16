@@ -7,3 +7,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 |-------|------------|--------------|-------|
 | Day 1 | 2024-09-14 | Vanya and Cubes | [https://codeforces.com/problemset/problem/492/A](day01/) |
 | Day 2 | 2024-09-15 |Closest Point | [https://codeforces.com/problemset/problem/2004/A] (day02/) |
+| Day 3 | 2024-09-16 |Anton and Polyhedrons | [https://codeforces.com/problemset/problem/785/A] (day03/) |
