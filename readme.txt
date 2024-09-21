@@ -11,3 +11,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 4 | 2024-09-17 |osu!mania | [https://codeforces.com/contest/2009/problem/B] (day04/) |
 | Day 5 | 2024-09-18 |Vasya the Hipster | [https://codeforces.com/problemset/problem/581/A] (day05/) |
 | Day 6 | 2024-09-19 |Tram | [https://codeforces.com/problemset/problem/116/A] (day06/) |
+| Day 7 | 2024-09-20 |Sereja and Dima | [https://codeforces.com/contest/381/problem/A] (day07/) |
