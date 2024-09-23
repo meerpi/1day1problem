@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n,m,o,num,pp;
+    int n,m,o,num,pp,z;
     char s[100];
     char *ptr = s;
     scanf("%d",&n);
@@ -16,9 +16,13 @@ int main()
             {
                 if (num > o)
                 {
-                    pp = num;
-                    num = 0
+                    pp += num;
+                    num = 0;
+                    continue;
                 }
+                z++;
+                ptr++;
+
             }
 
         }
