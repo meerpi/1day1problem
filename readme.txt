@@ -12,5 +12,7 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 5 | 2024-09-18 |Vasya the Hipster | [https://codeforces.com/problemset/problem/581/A] (day05/) |
 | Day 6 | 2024-09-19 |Tram | [https://codeforces.com/problemset/problem/116/A] (day06/) |
 | Day 7 | 2024-09-20 |Sereja and Dima | [https://codeforces.com/contest/381/problem/A] (day07/) |
-| Day 8 | 2024-09-20 |Card Game | [https://codeforces.com/contest/1999/problem/B] (day08/) |
-| Day 9 | 2024-09-20 |Magnets | [https://codeforces.com/contest/344/problem/A] (day09/) |
+| Day 8 | 2024-09-21 |Card Game | [https://codeforces.com/contest/1999/problem/B] (day08/) |
+| Day 9 | 2024-09-22 |Magnets | [https://codeforces.com/contest/344/problem/A] (day09/) |
+| Day 10 | 2024-09-23 |A. Minimize! | [https://codeforces.com/problemset/problem/2009/A] (day010/) |
+| Day 11 | 2024-09-24 |A. Primary Task | [https://codeforces.com/contest/2000/problem/A] (day011/) |
