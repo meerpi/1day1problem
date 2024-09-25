@@ -16,3 +16,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 9 | 2024-09-22 |Magnets | [https://codeforces.com/contest/344/problem/A] (day09/) |
 | Day 10 | 2024-09-23 |A. Minimize! | [https://codeforces.com/problemset/problem/2009/A] (day010/) |
 | Day 11 | 2024-09-24 |A. Primary Task | [https://codeforces.com/contest/2000/problem/A] (day011/) |
+| Day 12 | 2024-09-25 |A. B. Card Game | [https://codeforces.com/problemset/problem/1999/B] (day011/) |
