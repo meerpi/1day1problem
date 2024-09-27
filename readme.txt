@@ -18,3 +18,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 11 | 2024-09-24 |A. Primary Task | [https://codeforces.com/contest/2000/problem/A] (day011/) |
 | Day 12 | 2024-09-25 |A. B. Card Game | [https://codeforces.com/problemset/problem/1999/B] (day012/) |
 | Day 13 | 2024-09-26 |Team Olympiad | [https://codeforces.com/problemset/problem/490/A] (day013/) |
+| Day 14 | 2024-09-27 |A. Robin Helps | [https://codeforces.com/problemset/problem/2014/A] (day014/) |

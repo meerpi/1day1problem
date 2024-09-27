@@ -1,4 +1,3 @@
-Copy
 #include <stdio.h>
 int check(int a, int b)
 {
