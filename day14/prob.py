@@ -9,14 +9,12 @@ for i in range(z):
     j = list(map(int, input().split()))
     #print(j) 
     for k in j:
-        if k == 0:
+        if (k >= m):
+            mon = mon + k
+        elif (k == 0 and mon > 0):
             count += 1
-        if k > m:
-            mon += k 
-    if(mon > count):
-        res.append(count)
-    elif(count > mon):
-        res.append(mon)
+            mon -= 1
+    res.append(count)
 
 for i in res:
     print(i)
