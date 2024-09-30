@@ -1,4 +1,6 @@
 # 1day1problem
+#DrGViswanathan Challenge: 100 Days of Coding 💻 Welcome to my 100 Days of Coding challenge as part of the #DrGViswanathan initiative! 
+This repository will track my progress as I solve various coding problems from platforms like GeeksForGeeks , Codeforces and Leetcode.
 
 Welcome to my record of 1day1problem. I will be problem solving every day for at least an hour form today and documenting my progress here.
 
