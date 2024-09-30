@@ -20,3 +20,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 13 | 2024-09-26 |Team Olympiad | [https://codeforces.com/problemset/problem/490/A] (day013/) |
 | Day 14 | 2024-09-27 |A. Robin Helps | [https://codeforces.com/problemset/problem/2014/A] (day014/) |
 | Day 15 | 2024-09-28 |B. Borze | [https://codeforces.com/problemset/problem/32/B] (day015/) |
+| Day 16 | 2024-09-28 |A. Magnets | [https://codeforces.com/contest/344/problem/A] (day016/) |
