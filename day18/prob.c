@@ -23,5 +23,6 @@ int main()
     {
         printf("%d\n",res[i]);
     }
+    free(res);
     return 0;
 }
