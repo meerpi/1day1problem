@@ -24,5 +24,6 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 15 | 2024-09-28 |B. Borze | [https://codeforces.com/problemset/problem/32/B] (day015/) |
 | Day 16 | 2024-09-29 |A. Magnets | [https://codeforces.com/contest/344/problem/A] (day016/) |
 | Day 17 | 2024-09-30 |A. Square String | [https://codeforces.com/problemset/problem/1619/A] (day017/) |
-| Day 18 | 2024-09-30 |1829A - Love Story | [https://codeforces.com/problemset/problem/1829/A] (day018/) |
-| Day 19 | 2024-09-30 |A. Spell Check | [https://codeforces.com/problemset/problem/1722/A] (day019/) |
+| Day 18 | 2024-09-1 |1829A - Love Story | [https://codeforces.com/problemset/problem/1829/A] (day018/) |
+| Day 19 | 2024-09-2 |A. Spell Check | [https://codeforces.com/problemset/problem/1722/A] (day019/) |
+| Day 20 | 2024-09-3 |A. Zhan's Blender | [https://codeforces.com/problemset/problem/2013/A] (day020/) |
