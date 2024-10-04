@@ -1,0 +1,5 @@
+This problem took more time than expected. The first attempt was actually correct up until test 3, where it gave a "time exceeded" error. Since then, I've tried so many ways to get past that error—from using static memory to switching to the long long datatype to store the huge powers in test 3. I even tried using the idea that if n is odd, then n^n must also be odd, and so on.
+
+You can see my failed attempts here: https://codeforces.com/contest/2014/status (search for user "meerpi").
+
+Finally, I realized that since the power doesn’t change whether the result is odd or even, all I had to do was calculate the summation of n minus the summation of n-1. I felt a bit stupid for not seeing it sooner, but ultimately, that gave me the solution.
