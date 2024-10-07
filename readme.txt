@@ -30,3 +30,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 21 | 2024-09-4 |B - Robin Hood and the Major Oak | [https://codeforces.com/contest/2014/problem/B] (day021/) |(Added a txt file to express my thoughts about the solved problem.)
 | Day 22 | 2024-09-5 |427A - Police Recruits | [https://codeforces.com/problemset/problem/427/A] (day022/) |
 | Day 23 | 2024-09-6|1791A - Codeforces Checking | [https://codeforces.com/problemset/problem/1791/A] (day023/) |
+| Day 24 | 2024-09-7|1791A - Codeforces Checking | [https://codeforces.com/problemset/problem/1791/A] (day024/) |
