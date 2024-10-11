@@ -24,12 +24,14 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 15 | 2024-09-28 |B. Borze | [https://codeforces.com/problemset/problem/32/B] (day015/) |
 | Day 16 | 2024-09-29 |A. Magnets | [https://codeforces.com/contest/344/problem/A] (day016/) |
 | Day 17 | 2024-09-30 |A. Square String | [https://codeforces.com/problemset/problem/1619/A] (day017/) |
-| Day 18 | 2024-09-1 |1829A - Love Story | [https://codeforces.com/problemset/problem/1829/A] (day018/) |
-| Day 19 | 2024-09-2 |A. Spell Check | [https://codeforces.com/problemset/problem/1722/A] (day019/) |
-| Day 20 | 2024-09-3 |A. Zhan's Blender | [https://codeforces.com/problemset/problem/2013/A] (day020/) |
-| Day 21 | 2024-09-4 |B - Robin Hood and the Major Oak | [https://codeforces.com/contest/2014/problem/B] (day021/) |(Added a txt file to express my thoughts about the solved problem.)
-| Day 22 | 2024-09-5 |427A - Police Recruits | [https://codeforces.com/problemset/problem/427/A] (day022/) |
-| Day 23 | 2024-09-6|1791A - Codeforces Checking | [https://codeforces.com/problemset/problem/1791/A] (day023/) |
-| Day 24 | 2024-09-7|1742A - Sum | [https://codeforces.com/problemset/problem/1742/A] (day024/) |
-| Day 25 | 2024-09-8|A. Next Round | [https://codeforces.com/contest/158/problem/A] (day025/) |
-| Day 26 | 2024-09-8|A. Pangram | [https://codeforces.com/contest/520/problem/A] (day026/) |
+| Day 18 | 2024-10-1 |1829A - Love Story | [https://codeforces.com/problemset/problem/1829/A] (day018/) |
+| Day 19 | 2024-10-2 |A. Spell Check | [https://codeforces.com/problemset/problem/1722/A] (day019/) |
+| Day 20 | 2024-10-3 |A. Zhan's Blender | [https://codeforces.com/problemset/problem/2013/A] (day020/) |
+| Day 21 | 2024-10-4 |B - Robin Hood and the Major Oak | [https://codeforces.com/contest/2014/problem/B] (day021/) |(Added a txt file to express my thoughts about the solved problem.)
+| Day 22 | 2024-10-5 |427A - Police Recruits | [https://codeforces.com/problemset/problem/427/A] (day022/) |
+| Day 23 | 2024-10-6|1791A - Codeforces Checking | [https://codeforces.com/problemset/problem/1791/A] (day023/) |
+| Day 24 | 2024-10-7|1742A - Sum | [https://codeforces.com/problemset/problem/1742/A] (day024/) |
+| Day 25 | 2024-10-8|A. Next Round | [https://codeforces.com/contest/158/problem/A] (day025/) |
+| Day 26 | 2024-10-9|A. Pangram | [https://codeforces.com/contest/520/problem/A] (day026/) |
+| Day 27 | 2024-10-10||A. Medium Number | [https://codeforces.com/problemset/problem/1760/A] (day027/) |
+| Day 28 | 2024-10-11||A. Buy a Shovel | [https://codeforces.com/problemset/problem/732/A] (day028/) |
