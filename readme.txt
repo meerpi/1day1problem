@@ -36,3 +36,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 27 | 2024-10-10||A. Medium Number | [https://codeforces.com/problemset/problem/1760/A] (day027/) |
 | Day 28 | 2024-10-11||A. Buy a Shovel | [https://codeforces.com/problemset/problem/732/A] (day028/) |
 | Day 29 | 2024-10-12||A. To My Critics | [https://codeforces.com/contest/1850/problem/A] (day029/) |
+| Day 30 | 2024-10-13||A. Team | [https://codeforces.com/contest/231/problem/A] (day030/) |

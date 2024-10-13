@@ -1,0 +1,2 @@
+Using Java for the first time in Codeforces. I think the best way to learn Any language is implement logic using the nuew language. 
+And I just started Java at college.
