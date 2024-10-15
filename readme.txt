@@ -38,4 +38,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 29 | 2024-10-12||A. To My Critics | [https://codeforces.com/contest/1850/problem/A] (day029/) |
 | Day 30 | 2024-10-13||A. Team | [https://codeforces.com/contest/231/problem/A] (day030/) |
 | Day 31 | 2024-10-14||A. Way Too Long Words | [https://codeforces.com/contest/71/problem/A] (day031/) |
-| Day 31 | 2024-10-15||A. Boring Apartments | [https://codeforces.com/problemset/problem/1433/A] (day032/) |
+| Day 32 | 2024-10-15||A. Boring Apartments | [https://codeforces.com/problemset/problem/1433/A] (day032/) |
