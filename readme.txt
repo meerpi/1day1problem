@@ -39,7 +39,6 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 30 | 2024-10-13||A. Team | [https://codeforces.com/contest/231/problem/A] (day030/) |
 | Day 31 | 2024-10-14||A. Way Too Long Words | [https://codeforces.com/contest/71/problem/A] (day031/) |
 | Day 32 | 2024-10-15||A. Boring Apartments | [https://codeforces.com/problemset/problem/1433/A] (day032/) |
-<<<<<<< HEAD
 | Day 33 | 2024-10-16||1399A - Remove Smallest| [https://codeforces.com/problemset/problem/1399/A] (day033/) |
-=======
->>>>>>> 5247f885bb2e50f1b0bdee98798cb298e3411301
+| Day 34 | 2024-10-17||A. Stair, Peak, or Neither?| [https://codeforces.com/problemset/problem/1950/A] (day034/) |
+
