@@ -41,4 +41,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 32 | 2024-10-15||A. Boring Apartments | [https://codeforces.com/problemset/problem/1433/A] (day032/) |
 | Day 33 | 2024-10-16||1399A - Remove Smallest| [https://codeforces.com/problemset/problem/1399/A] (day033/) |
 | Day 34 | 2024-10-17||A. Stair, Peak, or Neither?| [https://codeforces.com/problemset/problem/1950/A] (day034/) |
-
+| Day 35 | 2024-10-18||A. Boy or Girl  | [https://codeforces.com/contest/236/problem/A] (day035/) |
