@@ -42,4 +42,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 33 | 2024-10-16||1399A - Remove Smallest| [https://codeforces.com/problemset/problem/1399/A] (day033/) |
 | Day 34 | 2024-10-17||A. Stair, Peak, or Neither?| [https://codeforces.com/problemset/problem/1950/A] (day034/) |
 | Day 35 | 2024-10-18||A. Boy or Girl  | [https://codeforces.com/contest/236/problem/A] (day035/) |
-| Day 36 | 2024-10-18||B. Blank Space  | [https://codeforces.com/problemset/problem/1829/B] (day036/) |
+| Day 36 | 2024-10-19||B. Blank Space  | [https://codeforces.com/problemset/problem/1829/B] (day036/) |
+| Day 37 | 2024-10-20||A. Mishka and Game  | [https://codeforces.com/problemset/problem/703/A] (day037/) |
