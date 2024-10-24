@@ -46,3 +46,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 37 | 2024-10-20||A. Mishka and Game  | [https://codeforces.com/problemset/problem/703/A] (day037/) |
 | Day 38 | 2024-10-21||A. Fair Playoff | [https://codeforces.com/problemset/problem/1535/A] (day038/) |
 | Day 39 | 2024-10-22||A. Perfect Permutation | [https://codeforces.com/problemset/problem/233/A] (day039/) |
+| Day 40 | 2024-10-23||A. Amusing Joke | [https://codeforces.com/problemset/problem/141/A] (day040/) |
+| Day 41 | 2024-10-23||A. Favorite Sequence | [https://codeforces.com/problemset/problem/1462/A] (day041/) |
