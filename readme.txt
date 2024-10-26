@@ -49,3 +49,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 40 | 2024-10-23||A. Amusing Joke | [https://codeforces.com/problemset/problem/141/A] (day040/) |
 | Day 41 | 2024-10-24||A. Favorite Sequence | [https://codeforces.com/problemset/problem/1462/A] (day041/) |
 | Day 42 | 2024-10-25||A. My First Sorting Problem | [https://codeforces.com/problemset/problem/1971/A] (day042/) |
+| Day 43 | 2024-10-26||A. Odd Set| [https://codeforces.com/problemset/problem/1542/A] (day043/) |
