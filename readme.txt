@@ -52,3 +52,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 43 | 2024-10-26||A. Odd Set| [https://codeforces.com/problemset/problem/1542/A] (day043/) |
 | Day 44 | 2024-10-27||A. A+B Again?| [https://codeforces.com/problemset/problem/1999/A] (day044/) |
 | Day 45 | 2024-10-28||A. Vlad and the Best of Five| [https://codeforces.com/contest/1926/problem/A] (day045/) |
+| Day 46 | 2024-10-29||C. Clock Conversion| [https://codeforces.com/problemset/problem/1950/C] (day046/) |
