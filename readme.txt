@@ -56,3 +56,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 47 | 2024-10-30||C. Word on the Paper| [https://codeforces.com/contest/1850/problem/C] (day047/) |
 | Day 48 | 2024-10-31||B. Different String| [https://codeforces.com/problemset/problem/1971/B] (day048/) |
 | Day 49 | 2024-11-01||A. Word Capitalization| [https://codeforces.com/contest/281/problem/A] (day049/) |
+| Day 50 | 2024-11-01||A. Short Substrings| [https://codeforces.com/problemset/problem/1367/A] (day050/) |
