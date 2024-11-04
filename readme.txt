@@ -58,3 +58,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 49 | 2024-11-01||A. Word Capitalization| [https://codeforces.com/contest/281/problem/A] (day049/) |
 | Day 50 | 2024-11-02||A. Short Substrings| [https://codeforces.com/problemset/problem/1367/A] (day050/) |
 | Day 51 | 2024-11-03||A. Short Sort| [https://codeforces.com/problemset/problem/1873/A] (day051/) |
+| Day 52 | 2024-11-04||A. YES or YES?| [https://codeforces.com/problemset/problem/1703/A] (day052/) |
