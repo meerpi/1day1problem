@@ -59,4 +59,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 50 | 2024-11-02||A. Short Substrings| [https://codeforces.com/problemset/problem/1367/A] (day050/) |
 | Day 51 | 2024-11-03||A. Short Sort| [https://codeforces.com/problemset/problem/1873/A] (day051/) |
 | Day 52 | 2024-11-04||A. YES or YES?| [https://codeforces.com/problemset/problem/1703/A] (day052/) |
-| Day 53 | 2024-11-05||A. YES or YES?| [https://codeforces.com/problemset/problem/1703/A] (day053/) |
+| Day 53 | 2024-11-05||A. I Wanna Be the Guy| [https://codeforces.com/contest/469/problem/A] (day053/) |
+| Day 54 | 2024-11-06||1676A - Lucky?| [https://codeforces.com/problemset/problem/1676/A] (day054/) |
