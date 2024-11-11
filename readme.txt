@@ -64,3 +64,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 55 | 2024-11-07||A. Team Olympiad| [https://codeforces.com/problemset/problem/490/A] (day055/) |
 | Day 56 | 2024-11-08||A. Division?| [https://codeforces.com/problemset/problem/1669/A] (day056/) |
 | Day 57 | 2024-11-09||A. Elephant| [https://codeforces.com/problemset/problem/617/A] (day057/) |
+| Day 58 | 2024-11-10||A. Domino piling| [https://codeforces.com/problemset/problem/50/A] (day058/) |
+| Day 59 | 2024-11-11||A. Nearly Lucky Number| [https://codeforces.com/problemset/problem/110/A] (day059/) |
