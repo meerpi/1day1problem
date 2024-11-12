@@ -66,3 +66,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 57 | 2024-11-09||A. Elephant| [https://codeforces.com/problemset/problem/617/A] (day057/) |
 | Day 58 | 2024-11-10||A. Domino piling| [https://codeforces.com/problemset/problem/50/A] (day058/) |
 | Day 59 | 2024-11-11||A. Nearly Lucky Number| [https://codeforces.com/problemset/problem/110/A] (day059/) |
+| Day 60 | 2024-11-12||B. Drinks| [https://codeforces.com/problemset/problem/200/B] (day060/) |
