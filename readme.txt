@@ -68,3 +68,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 59 | 2024-11-11||A. Nearly Lucky Number| [https://codeforces.com/problemset/problem/110/A] (day059/) |
 | Day 60 | 2024-11-12||B. Drinks| [https://codeforces.com/problemset/problem/200/B] (day060/) |
 | Day 61 | 2024-11-13||A. Helpful Maths| [https://codeforces.com/problemset/problem/339/A] (day061/) |
+| Day 62 | 2024-11-14||A. Stones on the Table| [https://codeforces.com/problemset/problem/266/A] (day062/) |
+| Day 63 | 2024-11-15||A. Insomnia cure| [https://codeforces.com/problemset/problem/148/A] (day063/) |
