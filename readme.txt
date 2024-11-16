@@ -70,3 +70,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 61 | 2024-11-13||A. Helpful Maths| [https://codeforces.com/problemset/problem/339/A] (day061/) |
 | Day 62 | 2024-11-14||A. Stones on the Table| [https://codeforces.com/problemset/problem/266/A] (day062/) |
 | Day 63 | 2024-11-15||A. Insomnia cure| [https://codeforces.com/problemset/problem/148/A] (day063/) |
+| Day 64 | 2024-11-16||A. George and Accommodation| [https://codeforces.com/problemset/problem/467/A] (day064/) |
