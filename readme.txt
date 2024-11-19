@@ -72,4 +72,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 63 | 2024-11-15||A. Insomnia cure| [https://codeforces.com/problemset/problem/148/A] (day063/) |
 | Day 64 | 2024-11-16||A. George and Accommodation| [https://codeforces.com/problemset/problem/467/A] (day064/) |
 | Day 65 | 2024-11-17||A. Beautiful Matrix| [https://codeforces.com/contest/263/problem/A] (day065/) |\
-| Day 65 | 2024-11-18||A. Bit++| [https://codeforces.com/problemset/problem/282/A] (day066/) |
+| Day 66 | 2024-11-18||A. Bit++| [https://codeforces.com/problemset/problem/282/A] (day066/) |
+| Day 67 | 2024-11-19||A. Anton and Letters| [https://codeforces.com/problemset/problem/443/A] (day067/) |
