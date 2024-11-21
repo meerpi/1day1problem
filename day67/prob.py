@@ -5,6 +5,6 @@ def unique_chars(s):
             unique.append(char)
     return unique
 
-sentence = input()
-char_list = unique_chars(sentence)
+sen= input()
+char_list = unique_chars(sen)
 print(len(char_list))
