@@ -77,3 +77,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 68 | 2024-11-20||N. Fixing the Expression| [https://codeforces.com/problemset/problem/2038/N] (day068/) |
 | Day 69 | 2024-11-21||2033A - Sakurako and Kosuke| [https://codeforces.com/problemset/problem/2033/A] (day069/) |
 | Day 70 | 2024-11-22||A. Marathon| [https://codeforces.com/problemset/problem/1692/A] (day070/) |
+| Day 71 | 2024-11-23||A. Is your horseshoe on the other hoof?| [https://codeforces.com/problemset/problem/228/A] (day070/) |
