@@ -80,3 +80,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 71 | 2024-11-23||A. Is your horseshoe on the other hoof?| [https://codeforces.com/problemset/problem/228/A] (day071/) |
 | Day 72 | 2024-11-24||A. Creating Words| [https://codeforces.com/problemset/problem/1985/A] (day072/) |
 | Day 73 | 2024-11-25||A. Do Not Be Distracted!| [https://codeforces.com/problemset/problem/1520/A] (day073/) |
+| Day 74 | 2024-11-25||A. Minutes Before the New Year| [https://codeforces.com/problemset/problem/1283/A] (day074/) |
