@@ -81,3 +81,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 72 | 2024-11-24||A. Creating Words| [https://codeforces.com/problemset/problem/1985/A] (day072/) |
 | Day 73 | 2024-11-25||A. Do Not Be Distracted!| [https://codeforces.com/problemset/problem/1520/A] (day073/) |
 | Day 74 | 2024-11-25||A. Minutes Before the New Year| [https://codeforces.com/problemset/problem/1283/A] (day074/) |
+| Day 75 | 2024-11-25||A. Brain's Photos| [https://codeforces.com/problemset/problem/707/A] (day075/) |
