@@ -83,3 +83,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 74 | 2024-11-26||A. Minutes Before the New Year| [https://codeforces.com/problemset/problem/1283/A] (day074/) |
 | Day 75 | 2024-11-27||A. Brain's Photos| [https://codeforces.com/problemset/problem/707/A] (day075/) |
 | Day 76 | 2024-11-28||A. Plus or Minus| [https://codeforces.com/problemset/problem/1807/A] (day076/) |
+| Day 76 | 2024-11-29||A. Floor Number| [https://codeforces.com/problemset/problem/1426/A  (day076/) |
