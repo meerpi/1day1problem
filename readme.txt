@@ -85,3 +85,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 76 | 2024-11-28||A. Plus or Minus| [https://codeforces.com/problemset/problem/1807/A] (day076/) |
 | Day 77 | 2024-11-29||A. Floor Number| [https://codeforces.com/problemset/problem/1426/A]  (day077/) |
 | Day 78 | 2024-11-29||A. Spy Detected!| [https://codeforces.com/problemset/problem/1512/A]  (day078/) |
+| Day 79 | 2024-11-29||A. Black Square| [https://codeforces.com/problemset/problem/431/A]  (day079/) |
