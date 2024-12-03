@@ -87,3 +87,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 78 | 2024-11-30||A. Spy Detected!| [https://codeforces.com/problemset/problem/1512/A]  (day078/) |
 | Day 79 | 2024-12-01||A. Black Square| [https://codeforces.com/problemset/problem/431/A]  (day079/) |
 | Day 80 | 2024-12-02||A. Yogurt Sale| [https://codeforces.com/problemset/problem/1955/A]  (day080/) |
+| Day 81 | 2024-12-03||A. Special Permutation| [https://codeforces.com/problemset/problem/1454/A]  (day081/) |
