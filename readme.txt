@@ -89,3 +89,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 80 | 2024-12-03||A. Yogurt Sale| [https://codeforces.com/problemset/problem/1955/A]  (day080/) |
 | Day 81 | 2024-12-04||A. Special Permutation| [https://codeforces.com/problemset/problem/1454/A]  (day081/) |
 | Day 82 | 2024-12-05||A. Dislike of Threes| [https://codeforces.com/problemset/problem/1560/A]  (day082/) |
+| Day 83 | 2024-12-05||B. Following Directions| [https://codeforces.com/problemset/problem/1791/B]  (day083/) |
