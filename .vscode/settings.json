@@ -2,6 +2,7 @@
     "files.associations": {
         "iostream": "cpp",
         "chrono": "c",
-        "functional": "c"
+        "functional": "c",
+        "valarray": "c"
     }
 }

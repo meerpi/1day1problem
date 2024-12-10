@@ -92,4 +92,5 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 83 | 2024-12-06||B. Following Directions| [https://codeforces.com/problemset/problem/1791/B]  (day083/) |
 | Day 84 | 2024-12-07||A. Vus the Cossack and a Contest| [https://codeforces.com/problemset/problem/1186/A]  (day084/) |
 | Day 85 | 2024-12-08||A. FashionabLee| [https://codeforces.com/problemset/problem/1369/A]  (day085/) |
-| Day 86 | 2024-12-09||A. FashionabLee| [https://codeforces.com/problemset/problem/1369/A]  (day085/) |
+| Day 86 | 2024-12-09||A. Holiday Of Equality| [https://codeforces.com/problemset/problem/758/A]  (day086/) |
+| Day 87 | 2024-12-10||C. Can I Square?| [https://codeforces.com/contest/1915/problem/C]  (day087/) |
