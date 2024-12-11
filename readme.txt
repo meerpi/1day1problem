@@ -94,3 +94,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 85 | 2024-12-08||A. FashionabLee| [https://codeforces.com/problemset/problem/1369/A]  (day085/) |
 | Day 86 | 2024-12-09||A. Holiday Of Equality| [https://codeforces.com/problemset/problem/758/A]  (day086/) |
 | Day 87 | 2024-12-10||C. Can I Square?| [https://codeforces.com/contest/1915/problem/C]  (day087/) |
+| Day 88 | 2024-12-11||B. Seating in a Bus| [https://codeforces.com/contest/2000/problem/B]  (day088/) |
