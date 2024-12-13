@@ -96,3 +96,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 87 | 2024-12-10||C. Can I Square?| [https://codeforces.com/contest/1915/problem/C]  (day087/) |
 | Day 88 | 2024-12-11||B. Seating in a Bus| [https://codeforces.com/contest/2000/problem/B]  (day088/) |
 | Day 89 | 2024-12-12||A. Fafa and his Company| [https://codeforces.com/problemset/problem/935/A]  (day089/) |
+| Day 90 | 2024-12-13||A. Maximum in Table| [https://codeforces.com/problemset/problem/509/A]  (day090/) |
