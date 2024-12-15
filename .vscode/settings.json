@@ -3,6 +3,10 @@
         "iostream": "cpp",
         "chrono": "c",
         "functional": "c",
-        "valarray": "c"
+        "valarray": "c",
+        "hash_map": "c",
+        "bitset": "c",
+        "algorithm": "c",
+        "format": "c"
     }
 }

@@ -98,3 +98,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 89 | 2024-12-12||A. Fafa and his Company| [https://codeforces.com/problemset/problem/935/A]  (day089/) |
 | Day 90 | 2024-12-13||A. Maximum in Table| [https://codeforces.com/problemset/problem/509/A]  (day090/) |
 | Day 91 | 2024-12-14||136A - Presents| [https://codeforces.com/problemset/problem/136/A]  (day091/) |
+| Day 92 | 2024-12-15||C. Hard Problem| [https://codeforces.com/contest/2044/problem/C]  (day092/) |
