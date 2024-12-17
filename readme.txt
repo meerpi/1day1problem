@@ -100,3 +100,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 91 | 2024-12-14||136A - Presents| [https://codeforces.com/problemset/problem/136/A]  (day091/) |
 | Day 92 | 2024-12-15||C. Hard Problem| [https://codeforces.com/contest/2044/problem/C]  (day092/) |
 | Day 93 | 2024-12-16||B. Normal Problem| [https://codeforces.com/contest/2044/problem/B]  (day093/) |
+| Day 94 | 2024-12-17||A. Easy Problem| [https://codeforces.com/contest/2044/problem/A]  (day093/) |
