@@ -103,4 +103,4 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 94 | 2024-12-17||A. Easy Problem| [https://codeforces.com/contest/2044/problem/A]  (day094/) |
 | Day 95 | 2024-12-18||750A - New Year and Hurry| [https://codeforces.com/problemset/problem/750/A]  (day095/) |
 | Day 96 | 2024-12-19||A. Choosing Teams| [https://codeforces.com/problemset/problem/432/A]  (day096/) |
-
+| Day 97 | 2024-12-20||A. Minimal Square| [https://codeforces.com/problemset/problem/1360/A]  (day097/) |
