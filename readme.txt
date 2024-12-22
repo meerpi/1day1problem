@@ -105,4 +105,6 @@ Welcome to my record of 1day1problem. I will be problem solving every day for at
 | Day 96 | 2024-12-19||A. Choosing Teams| [https://codeforces.com/problemset/problem/432/A]  (day096/) |
 | Day 97 | 2024-12-20||A. Minimal Square| [https://codeforces.com/problemset/problem/1360/A]  (day097/) |
 | Day 98 | 2024-12-21||A. Maximum GCD| [https://codeforces.com/problemset/problem/1370/A]  (day098/) |
+| Day 99 | 2024-12-22||B. Atilla's Favorite Problem| [https://codeforces.com/problemset/problem/1760/B]  (day099/) |
+
 
